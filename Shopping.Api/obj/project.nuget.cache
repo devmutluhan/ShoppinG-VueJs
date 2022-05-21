@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y7kHwSljVgPeue2qs2YTSNPvq39jeu4bCh5q9Suaa2hTjCXY2jYdquqBB/CDrG4gux9INFTV1uZe2K0c+tSCWQ==",
+  "dgSpecHash": "yMRD7EaAelpWZvPsIeqwp0acnnaZLzIWYFbOEdVEJOCOiUM3qxNYPIYxg31nY0+bdm7hFWQ49tLWptzstNdnsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mutluhan\\MyProject\\1-Geliştirilecek Projeler\\ShoppinG\\Shopping.Api\\Shopping.Api.csproj",
+  "projectFilePath": "C:\\Users\\Mutluhan\\MyProject\\1-Geliştirilecek Projeler\\ShoppinG-VueJs\\Shopping.Api\\Shopping.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mutluhan\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Mutluhan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

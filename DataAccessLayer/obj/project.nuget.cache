@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a2FRKxIpVFfL16QoXJ+/Y1AsnZ29/HjlKBJmP8icC0GSPYbYlVa77fZdib0aD2LdvGvmEQqdS+fDxhaAwylqwQ==",
+  "dgSpecHash": "F2LPtHMT65z4VOyMYY8KXcJHGlUL2w5XhIRtG73Gh5qI06mUvhnfkBBHHNr3q33f4VR8taZg05g1XOInbfkQnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mutluhan\\MyProject\\1-Geliştirilecek Projeler\\ShoppinG\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\Mutluhan\\MyProject\\1-Geliştirilecek Projeler\\ShoppinG-VueJs\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mutluhan\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Mutluhan\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

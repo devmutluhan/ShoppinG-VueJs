@@ -504,11 +504,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mutluhan\\MyProject\\1-Geliştirilecek Projeler\\ShoppinG\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Mutluhan\\MyProject\\1-Geliştirilecek Projeler\\ShoppinG-VueJs\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "C:\\Users\\Mutluhan\\MyProject\\1-Geliştirilecek Projeler\\ShoppinG\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectPath": "C:\\Users\\Mutluhan\\MyProject\\1-Geliştirilecek Projeler\\ShoppinG-VueJs\\DataAccessLayer\\DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\Mutluhan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mutluhan\\MyProject\\1-Geliştirilecek Projeler\\ShoppinG\\DataAccessLayer\\obj\\",
+      "outputPath": "C:\\Users\\Mutluhan\\MyProject\\1-Geliştirilecek Projeler\\ShoppinG-VueJs\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -529,8 +529,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Mutluhan\\MyProject\\1-Geliştirilecek Projeler\\ShoppinG\\Model\\Model.csproj": {
-              "projectPath": "C:\\Users\\Mutluhan\\MyProject\\1-Geliştirilecek Projeler\\ShoppinG\\Model\\Model.csproj"
+            "C:\\Users\\Mutluhan\\MyProject\\1-Geliştirilecek Projeler\\ShoppinG-VueJs\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\Mutluhan\\MyProject\\1-Geliştirilecek Projeler\\ShoppinG-VueJs\\Model\\Model.csproj"
             }
           }
         }
