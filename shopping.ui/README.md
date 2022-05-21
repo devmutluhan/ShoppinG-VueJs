@@ -1,4 +1,4 @@
-# shopping
+# shopping.ui
 
 ## Project setup
 ```
