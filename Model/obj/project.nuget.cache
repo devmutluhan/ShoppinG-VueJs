@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jfgbI2pFP2C8Mqgz/cG5E5RFRnc0hbjEI2+vPbN+yot2g9W0ln99Sd016bXaq7Yg2ss2dTwpRrvUiM7gnNXJ3Q==",
+  "dgSpecHash": "0arK0cYtKDPD5qqCGRVIuU24rW6IsH6VlijXQamFjHZOBG1X2JaKGfmfyri0L6F23kTCvLp8kquuGakGTJ9kkg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mutluhan\\MyProject\\1-Geliştirilecek Projeler\\ShoppinG-VueJs\\Model\\Model.csproj",
+  "projectFilePath": "/home/mutluhan/Desktop/VueJsExample/ShoppinG-VueJs/Model/Model.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
